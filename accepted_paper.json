@@ -1,6 +1,37 @@
 {
     "notes": [
+        {
+            "content": {
+                "title": {
+                    "value": "Iterative ASP Pipelines: Enhancements for Robots Playing Mobile Games"
+                },
+                "authors": {
+                    "value": [
+                        "Denise Angilica",
+                        "Tayyab Ateeq",
+                        "Giovambattista Ianni"
+                    ]
+                }
+            }
+        },
+        {
+            "content": {
+                "title": {
+                    "value": "When Prolog meets generative models: a new approach for managing knowledge and planning in robotic applications"
+                },
+                "authors": {
+                    "value": [
+                        "Enrico Saccon",
+                        "Ahmet Tikna",
+                        "Davide De Martini",
+                        "Edoardo Lamon",
+                        "Luigi Palopoli",
+                        "Marco Roveri"
+                    ]
+                }
+            }
+        }
     ],
-    "count": 0,
+    "count": 2,
     "fromCache": true
 }
